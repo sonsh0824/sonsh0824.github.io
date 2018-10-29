@@ -1,1 +1,2 @@
-# sonsh0824.github.io
+### not openned blog
+please visit http://algorithms.cf instead
